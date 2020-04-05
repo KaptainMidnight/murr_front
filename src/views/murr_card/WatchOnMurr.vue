@@ -117,25 +117,4 @@
     border-radius: 5px;
   }
 
-  .author {
-    text-align: center;
-    align-items: center;
-    margin-top: auto;
-  }
-
-  .hr {
-    height: 1px;
-    border: 0;
-    background: #AD00FF;
-  }
-
-  .author__username {
-    color: #fff;
-    padding: 1rem;
-  }
-
-  .author__url {
-    text-decoration: none;
-  }
-
 </style>
